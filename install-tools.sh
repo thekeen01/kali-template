@@ -2,7 +2,6 @@
 
 sudo apt install 7zip \
 awscli \
-azure-cli \
 azurehound \
 bloodhound.py \
 bloodhound \
@@ -59,13 +58,11 @@ jsql-injection \
 keepassxc-full \
 keepassxc \
 kerberoast \
-krb5-user \
 ldap-utils \
 metasploit-framework \
 mimikatz \
 net-tools \
 netcat-traditional \
-netexec \
 nmap \
 obsidian \
 openvpn \
