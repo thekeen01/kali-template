@@ -55,8 +55,6 @@ johnny \
 joomscan \
 jq \
 jsql-injection \
-keepassxc-full \
-keepassxc \
 kerberoast \
 ldap-utils \
 metasploit-framework \
