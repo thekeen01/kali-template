@@ -70,6 +70,7 @@ pkexec \
 proxychains4 \
 proxytunnel \
 python3-pip \
+python3-dev \
 responder \
 seclists \
 sharphound \
