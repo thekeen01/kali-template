@@ -93,5 +93,5 @@ zip
 
 pipx install bloodyAD
 pipx install impacket
-pipx install netexec
+pipx install git+https://github.com/Pennyw0rth/NetExec
 pipx ensurepath
