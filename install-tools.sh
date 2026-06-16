@@ -3,17 +3,11 @@
 sudo apt install 7zip \
 awscli \
 azurehound \
-bloodhound.py \
-bloodhound \
 bzip2 \
 caido \
-certipy-ad \
 cewl \
 chromium \
 cifs-utils \
-crackle \
-crackmapexec \
-creddump7 \
 curl \
 dirb \
 dirbuster \
@@ -42,7 +36,6 @@ ffuf \
 flameshot \
 ftp \
 fuse3 \
-ghidra \
 git \
 gpp-decrypt \
 gzip \
@@ -64,7 +57,6 @@ netcat-traditional \
 nmap \
 obsidian \
 openvpn \
-oracle-instantclient-basic \
 pipx \
 pkexec \
 proxychains4 \
@@ -94,5 +86,6 @@ zip
 
 pipx install bloodyAD
 pipx install impacket
+pipx install certipy-ad
 pipx install git+https://github.com/Pennyw0rth/NetExec
 pipx ensurepath
